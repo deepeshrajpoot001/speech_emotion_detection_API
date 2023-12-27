@@ -1,0 +1,6 @@
+flask~=3.0.0
+numpy~=1.26.2
+scikit-learn
+gunicorn
+soundfile~=0.12.1
+librosa~=0.10.1
